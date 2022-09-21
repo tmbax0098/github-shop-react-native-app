@@ -1,0 +1,7 @@
+/node_modules/
+/android/app/build/intermediates/
+/android/app/build/outputs/apk/
+/android/.gradle/
+/android/.idea/
+/.idea/
+
